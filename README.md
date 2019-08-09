@@ -1,0 +1,3 @@
+# Gettysburg Bookstore Business Process Analysis (Design-Phase)
+Our Client is the Gettysburg National Military Park Bookstore which is run by the Event Network Inc. of San Diego. Our primary point of contact is Chuck Hallabough who is the manager of the bookstore.
+The private bookstore collaborates with the National Park to give tours of the Gettysburg battlefield. Nearly 2 million people visit the battlefields yearly and nearly half end up taking a self-guided tour. The bookstore sells several versions of self-guided tours which use CDs and sells about 50,000 self-guided tours yearly. This is the first attempt to create a smartphone tour in conjunction with a self-guided tour book.
